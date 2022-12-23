@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1000&color=9C4E6A&center=true&width=1080&height=400&lines=+Seja+bem+vindo(a)+ao+meu+perfil+Bruno+aqui+&#128526;">
 
 <div align="center" valign="top">
-  <a href="https://github.com/GabrielRomao-git">
+  <a href="https://github.com/BrunoVSSilva">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=BrunoVSSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </br>
   </br>
