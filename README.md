@@ -1,5 +1,6 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=9C4E6A&center=true&width=1080&height=400&lines=+Seja+bem+vindo(a)+ao+meu+perfil,+Bruno+aqui!;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=9C4E6A&center=true&width=1080&height=100&lines=+Seja+bem+vindo(a)+ao+meu+perfil,+Bruno+aqui!;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=9C4E6A&center=true&width=1080&height=100&lines=+Hi,+my+name+is+Bruno,+welcome+to+my+profile!;">
 
 <div align="center" valign="top">
   <a href="https://github.com/BrunoVSSilva">
