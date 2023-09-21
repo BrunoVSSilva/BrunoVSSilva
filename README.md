@@ -4,9 +4,6 @@
 
 <div align="center" valign="top">
   <a href="https://github.com/BrunoVSSilva">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=BrunoVSSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </br>
-
   </br>
 </div>
 
