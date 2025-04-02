@@ -1,36 +1,29 @@
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=9C4E6A&center=true&width=1080&height=100&lines=+Seja+bem+vindo(a)+ao+meu+perfil,+Bruno+aqui!;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=9C4E6A&center=true&width=1080&height=100&lines=+Hi,+my+name+is+Bruno,+welcome+to+my+profile!;">
-
-<div align="center" valign="top">
-  <a href="https://github.com/BrunoVSSilva">
-  </br>
-</div>
-
-# Linguagens que Trabalho:
-
-<div align="center" valign="top">
-  <br>
-  <img align="center" alt="Gabs-HTML" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Gabs-HTML" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabs-CSS" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabs-React" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Gabs-Bootstrap" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"> 
-</div>
-  <br>
-  <br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
   
-<div> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+BRUNO;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-# Minhas Redes:
 
-<div align="center" valign="top">
-  <a align="center" href="https://www.instagram.com/beuuni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunovicentesantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
-  ![Snake animation](https://github.com/BrunoVSSilva/BrunoVSSilva/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+
+### ⚡ Technologies:
+
+These are some of the technologies and tools I use:
+
+- Languages
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=kotlin,gradle,java,js)](https://skillicons.dev)
+
+- Frontend
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=kotlin,firebase)](https://skillicons.dev)
+
+- Database
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=firebase,mysql,mongodb,sqlite)](https://skillicons.dev)
+
+- Tools
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,firebase,figma,postman)](https://skillicons.dev)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
